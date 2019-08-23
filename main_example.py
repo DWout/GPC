@@ -1,7 +1,6 @@
 import gym
 gym.logger.set_level(40)
 import numpy as np
-from usable_functions import *
 import time
 import cartesian
 from agent_gp import agent_gp_c

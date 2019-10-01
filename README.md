@@ -19,3 +19,4 @@ register(
 4. Run main_example.py
 
 
+p.s. If you run into any difficulties, try to send me a pm/post issue. Although it does not seem like it, I am still pretty active on git :)
